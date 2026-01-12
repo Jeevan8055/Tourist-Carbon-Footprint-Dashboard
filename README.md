@@ -21,7 +21,7 @@ Tourism contributes 8–10% of global CO₂ emissions, yet tourists and operator
 
 📈 Key Metrics Tracked
 
-• 🚗 Total CO₂ Emissions: 14,500+ kg across 50 trips
+• 🚗 Total CO₂ Emissions: 13,131+ kg across 50 trips
 • ✈️ Average Trip Emissions: 290 kg CO₂ per trip
 • 🚆 Low-Carbon Transport Rate: 30% including trains, buses, ferries
 • 🏨 Accommodation Impact: 15–18% of total emissions
